@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nash9lb
+- 👋 Hi, I’m @nash9
 - 👀 I’m interested in learning Devops and Automation
 - 🌱 I’m currently learning ansible
 - 💞️ I’m looking to collaborate on experts who has ansible and ci/cd pipeline experinece 
